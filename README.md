@@ -1,0 +1,1 @@
+Implemented random forest, decision trees, k-nearest neighbors, and logistic regression models against two data sets consisting of site metrics and certificate information to come up with a classification model for phishing sites. Found random forest to be most accurate based on metrics like ROC Curve, Confusion Matrix, and AUC.
